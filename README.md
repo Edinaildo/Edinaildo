@@ -8,7 +8,7 @@ Estudante de Ciência da Computação, sou estagiário em desenvolvimento FullSt
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://instagram.com/edinaildo_)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edinaildo&show_icons=true&bg_color=0000000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinaildo&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edinaildo&hide_progress=true)](https://github.com/Edinaildo)
 
 ## Tecnologias que uso no meu dia 💻
 
